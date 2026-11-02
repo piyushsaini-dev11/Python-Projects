@@ -1,0 +1,4 @@
+Yesterday, <person_name> went to the <place> with a <adjective> <animal>.
+They found a mysterious <noun> lying on the ground.
+When they tried to <verb> it, the <animal> started to dance.
+Everyone cheered, and it became the most <adjective> day of their lives.
